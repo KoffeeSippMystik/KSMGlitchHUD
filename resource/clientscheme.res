@@ -208,6 +208,9 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+		//Custom
+		"RaspberryRed"		"100 17 33 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -3055,6 +3058,24 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		Nectar32
+		{
+			"1"
+			{
+				"name"		"Nectar Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		Nectar64
+		{
+			"1"
+			{
+				"name"		"Nectar Regular"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
 		TechnoHideo12
 		{
 			"1"
@@ -3082,6 +3103,24 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		TechnoHideo32
+		{
+			"1"
+			{
+				"name"		"Techno Hideo"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		TechnoHideo64
+		{
+			"1"
+			{
+				"name"		"Techno Hideo"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
 		TechnoHideoBold12
 		{
 			"1"
@@ -3106,6 +3145,24 @@ Scheme
 			{
 				"name"		"Techno Hideo Bold"
 				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		TechnoHideoBold32
+		{
+			"1"
+			{
+				"name"		"Techno Hideo Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		TechnoHideoBold64
+		{
+			"1"
+			{
+				"name"		"Techno Hideo Bold"
+				"tall"		"64"
 				"antialias" "1"
 			}
 		}

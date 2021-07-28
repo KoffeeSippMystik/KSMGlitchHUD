@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"Nectar16"
+		"font"			"Nectar32"
 		"fgcolor"		"TanLight"
 		"xpos"			"4"
 		"xpos_minmode"	"8"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"Nectar16"
+		"font"			"Nectar32"
 		"fgcolor"		"Black"
 		"xpos"			"5"
 		"xpos_minmode"	"9"
@@ -131,7 +131,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"HudFontGiantBold"
+		"font"			"Nectar32"
 		"fgcolor"		"TanLight"
 		"xpos"			"0"
 		"ypos"			"2"
@@ -151,7 +151,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"HudFontGiantBold"
+		"font"			"Nectar32"
 		"fgcolor"		"Black"
 		"xpos"			"1"
 		"xpos_hidef"	"2"
